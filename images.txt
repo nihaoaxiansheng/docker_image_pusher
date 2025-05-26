@@ -1,1 +1,1 @@
-jinnrry/pmail:2.8.4
+Jinnrry/PMail:2.8.4
