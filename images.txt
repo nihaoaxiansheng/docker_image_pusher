@@ -1,1 +1,1 @@
-jinnrry/pmail:latest
+jinnrry/pmail:2.84
