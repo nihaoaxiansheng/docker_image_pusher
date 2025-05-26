@@ -1,1 +1,7 @@
-pmail:2.8.4
+nginx:1.20.2
+#指定arm架构   注释下面默认就是x86的 也可以指定x86
+--platform=linux/arm64 xiaoyaliu/alist
+
+
+#指定x86架构  默认就是 不需要写
+#--platform=linux/x86 xiaoyaliu/alist
