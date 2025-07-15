@@ -1,7 +1,7 @@
-#--platform=linux/arm64 nihaoxiansheng/PMail
+--platform=linux/arm64 nihaoxiansheng/PMail
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
 #--platform=linux/x86 jinnrry/pmail
 
 
 #指定x86架构  默认就是 不需要写
---platform=linux/x86 nihaoxiansheng/PMail
+#--platform=linux/x86 nihaoxiansheng/PMail
