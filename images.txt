@@ -1,4 +1,4 @@
-lejianwen/rustdesk-api:master
+nihaoaxiansheng/rustdesk
 #--platform=linux/arm64 nihaoxiansheng/PMail
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
 #--platform=linux/x86 jinnrry/pmail
