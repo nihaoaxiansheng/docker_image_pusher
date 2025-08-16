@@ -1,4 +1,4 @@
-docker pull ghcr.io/nihaoaxiansheng/rustdesk/run-on-arch-nihaoaxiansheng-rustdesk-full-flutter-ci-x86-64-ubuntu18-04:latest
+git clone https://github.com/lejianwen/rustdesk-api.git
 #--platform=linux/arm64 nihaoxiansheng/PMail
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
 #--platform=linux/x86 jinnrry/pmail
