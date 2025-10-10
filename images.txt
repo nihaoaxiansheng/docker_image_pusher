@@ -1,5 +1,5 @@
-gh repo clone nihaoaxiansheng/rustdesk
-#ghcr.io/jinnrry/pmail:latest
+#gh repo clone nihaoaxiansheng/rustdesk
+ghcr.io/jinnrry/pmail:latest
 #指定arm架构   注释下面默认就是x86的 也可以指定x86
 #--platform=linux/x86 jinnrry/pmail
 
